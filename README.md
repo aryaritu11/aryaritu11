@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Ritu</h1>
 <h3 align="center">Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-s6&label=Profile%20views&color=0e75b6&style=flat" alt="aryaritu11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryaritu11&label=Profile%20views&color=0e75b6&style=flat" alt="aryaritu11" /> </p>
 
 - 🌱 I’m proficient in **Power BI, Python, SQL, Excel**
 
